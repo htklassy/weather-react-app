@@ -1,7 +1,5 @@
 import React from "react";
 import "./SearchEngine.css";
-import axios from "axios";
-import ReactAnimatedWeather from 'react-animated-weather';
 
 export default function SearchEngine() {
     let weatherData = {

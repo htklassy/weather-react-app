@@ -4,12 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>
-          Hello you mother fucken world.
-        </h1>
+      
         <Weather city="Portland" />
-      </header>
+        <small>
+        <a href="https://github.com/htklassy/weather-app-week7" target="_blank">Open-source code</a> by Lynn Nguyen
+        </small>
     </div>
   );
 }

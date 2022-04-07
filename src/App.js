@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       
-        <Weather city="Portland" />
+        <Weather city="Denver" />
         <small>
-        <a href="https://github.com/htklassy/weather-app-week7" target="_blank">Open-source code</a> by Lynn Nguyen
+        <a href="https://github.com/htklassy/weather-app-week7" target="_blank" rel="noreferrer">Open-source code</a> by Lynn Nguyen
         </small>
     </div>
   );
